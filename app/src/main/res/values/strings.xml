@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI Apps</string>
+    <string-array name="Barang">
+        <item>12000</item>
+        <item>10000</item>
+        <item>45000</item>
+    </string-array>
+</resources>
